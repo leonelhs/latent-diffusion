@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+ldm/__pycache__/
+ldm/data/__pycache__/
+ldm/models/__pycache__/
+ldm/models/diffusion/__pycache__/
+ldm/modules/__pycache__/
+ldm/modules/diffusionmodules/__pycache__/
+ldm/modules/distributions/__pycache__/
+ldm/modules/losses/__pycache__/
+models/ldm/inpainting_big/last.ckpt
