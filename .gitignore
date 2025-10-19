@@ -9,3 +9,6 @@ ldm/modules/diffusionmodules/__pycache__/
 ldm/modules/distributions/__pycache__/
 ldm/modules/losses/__pycache__/
 models/ldm/inpainting_big/last.ckpt
+build
+latent_diffusion.egg-info
+install.sh
